@@ -1,4 +1,5 @@
 Calculator Payment - Gophers Task 1 (Beginner Project) 🚀
+
 A simple command-line interface (CLI) payment calculator built with Go (Golang). This project was created by a beginner as part of the Gophers assignment to demonstrate a basic understanding of Go syntax, functions, and packages.
 
 ✨ Features
